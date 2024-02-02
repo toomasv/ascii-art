@@ -1,4 +1,4 @@
-# Some sohwcases
+# Some showcases
 
 ## ascii-art
 Outcome of the ascii-art final task
